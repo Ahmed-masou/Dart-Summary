@@ -1,2 +1,0 @@
-- name: Setup Dart SDK
-  uses: dart-lang/setup-dart@v1.3
