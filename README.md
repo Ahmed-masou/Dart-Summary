@@ -1,5 +1,5 @@
 ### Dart-Summary
-* Here I added a Summary of my Dart journey with Wael Abo Hamza and many other resources.
+* Here I added a Summary of my Dart journey with Wael Abo Hamza (Arabic Youtube Course ) and many other resources (Will be added in the rep also).
 * It's a good resource for the beginner in teh Dart langauge.
 * It gilts also as a summary and good resource for whom need to revise Dart language without spending a lot of time watching Videos.
 * Will be happy for any Feedback :)
